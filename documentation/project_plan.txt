@@ -1,0 +1,15 @@
+STUDENT ATTENDANCE MANAGEMENT SYSTEM
+
+Project Name: SAMS
+Purpose: To maintain and manage student attendance records.
+
+Project Activities:
+1. Requirement Analysis
+2. Database Design
+3. Software Development
+4. Software Testing
+5. User Acceptance Testing
+6. Project Documentation
+
+Version: 1.0
+Status: Initial Project Plan
