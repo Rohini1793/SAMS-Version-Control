@@ -1,0 +1,15 @@
+SAMS - ATTENDANCE FEATURE
+
+Feature Name: Attendance Tracking
+
+Description:
+The system allows faculty members to
+record student attendance.
+
+Functionalities:
+1. View student list.
+2. Mark students Present or Absent.
+3. Display attendance status.
+4. Maintain attendance records.
+
+Version: 1.1
